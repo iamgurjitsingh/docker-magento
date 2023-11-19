@@ -1,1 +1,1 @@
-# docker-magento
+# Magento 2.4.x Docker + Xdebug(Phpstorm) + MailHog + Multiple Website + Blackfire + Redis/Redisinsight + Elasticsearch + Rabbitmq + Make
